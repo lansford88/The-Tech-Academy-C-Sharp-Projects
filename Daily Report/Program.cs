@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Security.Cryptography;
 
 namespace Daily_Report
 {
@@ -21,9 +21,8 @@ namespace Daily_Report
             int pageNumber = Convert.ToInt32(pageNum);
 
             Console.WriteLine("Do you need help with Anything? Please answer True or False.");
-            bool answer = true;
-            string assistVar = Convert.ToString(answer);
-            Console.ReadLine();
+            bool boolAnswer =Convert.ToBoolean(Console.ReadLine());  
+
 
             Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics");
             string experienceVar = Console.ReadLine();
