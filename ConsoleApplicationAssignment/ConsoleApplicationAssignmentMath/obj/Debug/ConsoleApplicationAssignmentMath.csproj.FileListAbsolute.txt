@@ -1,0 +1,7 @@
+D:\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignmentMath\obj\Debug\ConsoleApplicationAssignmentMath.csprojAssemblyReference.cache
+D:\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignmentMath\obj\Debug\ConsoleApplicationAssignmentMath.csproj.CoreCompileInputs.cache
+D:\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignmentMath\bin\Debug\ConsoleApplicationAssignmentMath.exe.config
+D:\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignmentMath\bin\Debug\ConsoleApplicationAssignmentMath.exe
+D:\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignmentMath\bin\Debug\ConsoleApplicationAssignmentMath.pdb
+D:\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignmentMath\obj\Debug\ConsoleApplicationAssignmentMath.exe
+D:\GitHub\The-Tech-Academy-C-Sharp-Projects\ConsoleApplicationAssignment\ConsoleApplicationAssignmentMath\obj\Debug\ConsoleApplicationAssignmentMath.pdb
