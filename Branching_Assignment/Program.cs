@@ -15,9 +15,10 @@ namespace Branching_Assignment
             if (packWeight > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express.Have a good day.");
+                Console.ReadLine();
             }
             else if (packWeight <= 50)
-            
+            {
                 Console.WriteLine("Please enter package width:");
                 int widthVar = Convert.ToInt32(Console.ReadLine());
 
@@ -27,19 +28,19 @@ namespace Branching_Assignment
                 Console.WriteLine("Please enter package length:");
                 int lengthVar = Convert.ToInt32(Console.ReadLine());
 
-            int costPre = widthVar * heightVar * lengthVar;
-            double totalCost = costPre / 100;
+                int costPre = (widthVar * heightVar * lengthVar) * packWeight;
+                double totalCost = costPre / 100;
 
-            if (widthVar + heightVar + lengthVar >= 50)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express");
-            }
-            else
+                if (widthVar + heightVar + lengthVar >= 50)
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express");
+                }
+                else
                 Console.WriteLine("Your estimated total cost for shipping this package is: $" + totalCost);
-                Console.ReadLine();
                 Console.WriteLine("Thank you for your business");
                 Console.ReadLine();
-            
+                
+             }
             }
         }
     }
