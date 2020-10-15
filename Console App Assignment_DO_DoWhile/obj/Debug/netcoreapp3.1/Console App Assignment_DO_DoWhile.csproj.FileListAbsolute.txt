@@ -1,0 +1,13 @@
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console App Assignment_DO_DoWhile\obj\Debug\netcoreapp3.1\Console App Assignment_DO_DoWhile.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console App Assignment_DO_DoWhile\obj\Debug\netcoreapp3.1\Console App Assignment_DO_DoWhile.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console App Assignment_DO_DoWhile\obj\Debug\netcoreapp3.1\Console App Assignment_DO_DoWhile.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console App Assignment_DO_DoWhile\obj\Debug\netcoreapp3.1\Console App Assignment_DO_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console App Assignment_DO_DoWhile\bin\Debug\netcoreapp3.1\Console App Assignment_DO_DoWhile.exe
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console App Assignment_DO_DoWhile\bin\Debug\netcoreapp3.1\Console App Assignment_DO_DoWhile.deps.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console App Assignment_DO_DoWhile\bin\Debug\netcoreapp3.1\Console App Assignment_DO_DoWhile.runtimeconfig.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console App Assignment_DO_DoWhile\bin\Debug\netcoreapp3.1\Console App Assignment_DO_DoWhile.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console App Assignment_DO_DoWhile\bin\Debug\netcoreapp3.1\Console App Assignment_DO_DoWhile.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console App Assignment_DO_DoWhile\bin\Debug\netcoreapp3.1\Console App Assignment_DO_DoWhile.pdb
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console App Assignment_DO_DoWhile\obj\Debug\netcoreapp3.1\Console App Assignment_DO_DoWhile.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console App Assignment_DO_DoWhile\obj\Debug\netcoreapp3.1\Console App Assignment_DO_DoWhile.pdb
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console App Assignment_DO_DoWhile\obj\Debug\netcoreapp3.1\Console App Assignment_DO_DoWhile.genruntimeconfig.cache
