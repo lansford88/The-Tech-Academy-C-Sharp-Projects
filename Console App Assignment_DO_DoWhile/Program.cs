@@ -6,6 +6,14 @@ namespace Console_App_Assignment_DO_DoWhile
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Lets count to 10!");
+            int n = 0;
+            while (n <= 10)
+            {
+                Console.WriteLine(n);
+                n++;
+            }
+
             Console.WriteLine("Let us test your mental prowess! What color am I thinking of?");
             string colorGuess = Console.ReadLine();
             bool colorGuessed = colorGuess == "Green";
@@ -53,6 +61,7 @@ namespace Console_App_Assignment_DO_DoWhile
 
             Console.Read();
 
+            
         }
     }
 }
