@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace Console_App_Main_Six_Assignment
 {
@@ -18,12 +19,14 @@ namespace Console_App_Main_Six_Assignment
 
             for (int j = 0; j < studentNames.Length; j++)
             {
-                if (studentNames[j] != " ")
-                {
-                    Console.WriteLine("Perfect! You assigned " + studentNames[j] + " to the: " + course + " course");
-                }
+                studentNames[j] = studentNames[j] + course;
+            }
+            for (int j = 0; j < studentNames.Length; j++)
+            {
+                Console.WriteLine(studentNames[j]);
             }
             Console.ReadLine();
+
 
             //****************BREAK TO NEXT ASSIGNMENT********************************
 
@@ -53,27 +56,28 @@ namespace Console_App_Main_Six_Assignment
 
             //********************BREAK TO NEXT ASSIGNMENT*******************
 
-            // CONSOLE ASSIGNMENT THREE
+            //** CONSOLE ASSIGNMENT FOUR
+            // This makes use of the "<" and "<="  in 
+            // two seperate for loops.
 
-            //  rideHeight is going to take the users height,
-            // then were going to make use of the < operator 
-            //so if they are 47 and lower, they will be to short
-            // however making use of the <= means that if they
-            // are 48, they can ride.
-
-            Console.WriteLine("How tall are you?");
-            int rideHeight = Convert.ToInt32(Console.ReadLine());
-
-            if (rideHeight < 48)
+            List<int> testScoresA = new List<int>() { 45, 39, 48, 49, 50, 15, 69, 87, 78, 99 };
+            
+            for (int i = 0; i < testScoresA.Count; i++)
             {
-                Console.WriteLine("You just to short, move it along");
+                if (testScoresA[i] < 42)
+                {
+                    Console.WriteLine( testScoresA[i]);
+                }
+             }
+            for (int i = 0; i < testScoresA.Count; i++)
+            {
+                if (testScoresA[i] <= 69)
+                {
+                    Console.WriteLine(testScoresA[i]);
+                }
             }
 
-            else if (rideHeight <= 48)
-            {
-                Console.WriteLine("You are just tall enough");
-            }
-            Console.ReadLine();
+
 
             //**********************BREAK TO NEXT ASSIGNMENT**********
 
@@ -90,48 +94,25 @@ namespace Console_App_Main_Six_Assignment
 
             Console.WriteLine("I've got a few models on my lot, which model are you looking to buy?");
             string modelPicked = Console.ReadLine();
-            bool desiredModel = modelPicked == "";
+            
 
-
-            do
+            for (int i = 0; i <carChoices.Count; i++)
             {
-                switch (modelPicked)
+                if (modelPicked == carChoices[i])
                 {
-                    case "Ford":
-                        Console.WriteLine("\nIndexOf(" + modelPicked + "): {0}", carChoices.IndexOf(modelPicked));
-                        desiredModel = true;
-                        break;
-
-                    case "Mazda":
-                        Console.WriteLine("\nIndexOf(" + modelPicked + "): {0}", carChoices.IndexOf(modelPicked));
-                        desiredModel = true;
-                        break;
-
-                    case "Chevy":
-                        Console.WriteLine("\nIndexOf(" + modelPicked + "): {0}", carChoices.IndexOf(modelPicked));
-                        desiredModel = true;
-                        break;
-
-                    case "Dodge":
-                        Console.WriteLine("\nIndexOf(" + modelPicked + "): {0}", carChoices.IndexOf(modelPicked));
-                        desiredModel = true;
-                        break;
-
-                    default:
-                        Console.WriteLine("I'm sorry, I do not seem to have that specific model on my lot. Maybe something else looks good?");
-                        modelPicked = Console.ReadLine();
-                        break;
-
+                    Console.WriteLine("Match found at :" + i);
                 }
-
+                else
+                {
+                    Console.WriteLine("That is not a valid option");
+                }
             }
-            while (!desiredModel);
-
             Console.ReadLine();
+
 
             //***************************BREAK TO NEXT ASSIGNMENT***************
 
-            // CONSOLE ASSIGNMENT FIVE
+            /// CONSOLE ASSIGNMENT FIVE
             // This takes a list of cars
             // then cycles through them and prints them to the screen, this then 
             // iterates through the list and if they chose the car on the list it will
@@ -145,12 +126,14 @@ namespace Console_App_Main_Six_Assignment
                 Console.WriteLine(i);
             }
             string favPicked = Console.ReadLine();
+            bool found = false;
 
             for (int i = 0; i < favCar.Count; i++)
             {
                 if (favPicked == favCar[i])
                 {
                     Console.WriteLine("Match found at :" + i);
+                    found = true;
                 }
                 else
                 {
@@ -171,21 +154,22 @@ namespace Console_App_Main_Six_Assignment
             // the string declaring which string has an identical match.
 
             List<string> favGames = new List<string>() { "Mario", "Zelda", "Kirby", "DigDug", "Mario" };
+            
+            List<string> empList = new List<string>();
+
             foreach (string i in favGames)
             {
-                Console.WriteLine(i);
-            }
-            //Next section will iterate and then display the matched duplicated string
-            foreach (string s in favGames)
-            {
-                foreach (string s2 in favGames)
+                if (!empList.Contains(i))
                 {
-                    if (s.Equals(s2))
-                        Console.WriteLine("\n{0}  is in here twice", s);
-                    Console.ReadLine();
+                    Console.WriteLine(i + "  has not appeared in the list");
+                    empList.Add(i);
                 }
-
+                else
+                {
+                    Console.WriteLine(i +"  has already appeared on this list");
+                }
             }
+            Console.ReadLine();
 
         }
     }
