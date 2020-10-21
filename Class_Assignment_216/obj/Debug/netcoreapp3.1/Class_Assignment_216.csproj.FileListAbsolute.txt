@@ -1,0 +1,13 @@
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Class_Assignment_216\bin\Debug\netcoreapp3.1\Class_Assignment_216.exe
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Class_Assignment_216\bin\Debug\netcoreapp3.1\Class_Assignment_216.deps.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Class_Assignment_216\bin\Debug\netcoreapp3.1\Class_Assignment_216.runtimeconfig.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Class_Assignment_216\bin\Debug\netcoreapp3.1\Class_Assignment_216.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Class_Assignment_216\bin\Debug\netcoreapp3.1\Class_Assignment_216.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Class_Assignment_216\bin\Debug\netcoreapp3.1\Class_Assignment_216.pdb
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Class_Assignment_216\obj\Debug\netcoreapp3.1\Class_Assignment_216.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Class_Assignment_216\obj\Debug\netcoreapp3.1\Class_Assignment_216.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Class_Assignment_216\obj\Debug\netcoreapp3.1\Class_Assignment_216.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Class_Assignment_216\obj\Debug\netcoreapp3.1\Class_Assignment_216.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Class_Assignment_216\obj\Debug\netcoreapp3.1\Class_Assignment_216.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Class_Assignment_216\obj\Debug\netcoreapp3.1\Class_Assignment_216.pdb
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Class_Assignment_216\obj\Debug\netcoreapp3.1\Class_Assignment_216.genruntimeconfig.cache
