@@ -1,0 +1,13 @@
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment 229\bin\Debug\netcoreapp3.1\Console_Assignment 229.exe
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment 229\bin\Debug\netcoreapp3.1\Console_Assignment 229.deps.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment 229\bin\Debug\netcoreapp3.1\Console_Assignment 229.runtimeconfig.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment 229\bin\Debug\netcoreapp3.1\Console_Assignment 229.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment 229\bin\Debug\netcoreapp3.1\Console_Assignment 229.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment 229\bin\Debug\netcoreapp3.1\Console_Assignment 229.pdb
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment 229\obj\Debug\netcoreapp3.1\Console_Assignment 229.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment 229\obj\Debug\netcoreapp3.1\Console_Assignment 229.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment 229\obj\Debug\netcoreapp3.1\Console_Assignment 229.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment 229\obj\Debug\netcoreapp3.1\Console_Assignment 229.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment 229\obj\Debug\netcoreapp3.1\Console_Assignment 229.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment 229\obj\Debug\netcoreapp3.1\Console_Assignment 229.pdb
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment 229\obj\Debug\netcoreapp3.1\Console_Assignment 229.genruntimeconfig.cache
