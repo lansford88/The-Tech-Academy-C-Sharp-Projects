@@ -1,0 +1,13 @@
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Struct_260\bin\Debug\netcoreapp3.1\Console_Assignment_Struct_260.exe
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Struct_260\bin\Debug\netcoreapp3.1\Console_Assignment_Struct_260.deps.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Struct_260\bin\Debug\netcoreapp3.1\Console_Assignment_Struct_260.runtimeconfig.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Struct_260\bin\Debug\netcoreapp3.1\Console_Assignment_Struct_260.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Struct_260\bin\Debug\netcoreapp3.1\Console_Assignment_Struct_260.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Struct_260\bin\Debug\netcoreapp3.1\Console_Assignment_Struct_260.pdb
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Struct_260\obj\Debug\netcoreapp3.1\Console_Assignment_Struct_260.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Struct_260\obj\Debug\netcoreapp3.1\Console_Assignment_Struct_260.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Struct_260\obj\Debug\netcoreapp3.1\Console_Assignment_Struct_260.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Struct_260\obj\Debug\netcoreapp3.1\Console_Assignment_Struct_260.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Struct_260\obj\Debug\netcoreapp3.1\Console_Assignment_Struct_260.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Struct_260\obj\Debug\netcoreapp3.1\Console_Assignment_Struct_260.pdb
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Struct_260\obj\Debug\netcoreapp3.1\Console_Assignment_Struct_260.genruntimeconfig.cache
