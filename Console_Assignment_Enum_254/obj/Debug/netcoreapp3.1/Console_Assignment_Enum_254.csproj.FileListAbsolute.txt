@@ -1,0 +1,13 @@
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Enum_254\bin\Debug\netcoreapp3.1\Console_Assignment_Enum_254.exe
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Enum_254\bin\Debug\netcoreapp3.1\Console_Assignment_Enum_254.deps.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Enum_254\bin\Debug\netcoreapp3.1\Console_Assignment_Enum_254.runtimeconfig.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Enum_254\bin\Debug\netcoreapp3.1\Console_Assignment_Enum_254.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Enum_254\bin\Debug\netcoreapp3.1\Console_Assignment_Enum_254.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Enum_254\bin\Debug\netcoreapp3.1\Console_Assignment_Enum_254.pdb
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Enum_254\obj\Debug\netcoreapp3.1\Console_Assignment_Enum_254.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Enum_254\obj\Debug\netcoreapp3.1\Console_Assignment_Enum_254.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Enum_254\obj\Debug\netcoreapp3.1\Console_Assignment_Enum_254.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Enum_254\obj\Debug\netcoreapp3.1\Console_Assignment_Enum_254.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Enum_254\obj\Debug\netcoreapp3.1\Console_Assignment_Enum_254.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Enum_254\obj\Debug\netcoreapp3.1\Console_Assignment_Enum_254.pdb
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_Enum_254\obj\Debug\netcoreapp3.1\Console_Assignment_Enum_254.genruntimeconfig.cache
