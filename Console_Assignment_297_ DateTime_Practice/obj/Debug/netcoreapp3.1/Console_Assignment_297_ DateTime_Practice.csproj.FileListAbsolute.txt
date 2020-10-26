@@ -1,0 +1,12 @@
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_297_ DateTime_Practice\bin\Debug\netcoreapp3.1\Console_Assignment_297_ DateTime_Practice.exe
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_297_ DateTime_Practice\bin\Debug\netcoreapp3.1\Console_Assignment_297_ DateTime_Practice.deps.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_297_ DateTime_Practice\bin\Debug\netcoreapp3.1\Console_Assignment_297_ DateTime_Practice.runtimeconfig.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_297_ DateTime_Practice\bin\Debug\netcoreapp3.1\Console_Assignment_297_ DateTime_Practice.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_297_ DateTime_Practice\bin\Debug\netcoreapp3.1\Console_Assignment_297_ DateTime_Practice.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_297_ DateTime_Practice\bin\Debug\netcoreapp3.1\Console_Assignment_297_ DateTime_Practice.pdb
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_297_ DateTime_Practice\obj\Debug\netcoreapp3.1\Console_Assignment_297_ DateTime_Practice.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_297_ DateTime_Practice\obj\Debug\netcoreapp3.1\Console_Assignment_297_ DateTime_Practice.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_297_ DateTime_Practice\obj\Debug\netcoreapp3.1\Console_Assignment_297_ DateTime_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_297_ DateTime_Practice\obj\Debug\netcoreapp3.1\Console_Assignment_297_ DateTime_Practice.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_297_ DateTime_Practice\obj\Debug\netcoreapp3.1\Console_Assignment_297_ DateTime_Practice.pdb
+C:\Users\Ryan\Desktop\Basic_C#_Programs\Console_Assignment_297_ DateTime_Practice\obj\Debug\netcoreapp3.1\Console_Assignment_297_ DateTime_Practice.genruntimeconfig.cache
