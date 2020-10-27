@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_Assignment_310_Const_Var_ChainPractice", "Console_Assignment_310_Const_Var_ChainPractice.csproj", "{2BCC4609-B43B-47F4-8B56-3E76E6FC3501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BCC4609-B43B-47F4-8B56-3E76E6FC3501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCC4609-B43B-47F4-8B56-3E76E6FC3501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCC4609-B43B-47F4-8B56-3E76E6FC3501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCC4609-B43B-47F4-8B56-3E76E6FC3501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1632703-831F-4132-AE7C-47A969B64728}
+	EndGlobalSection
+EndGlobal

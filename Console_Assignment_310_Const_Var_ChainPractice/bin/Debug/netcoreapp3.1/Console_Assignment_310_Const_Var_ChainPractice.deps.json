@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Console_Assignment_310_Const_Var_ChainPractice/1.0.0": {
+        "runtime": {
+          "Console_Assignment_310_Const_Var_ChainPractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console_Assignment_310_Const_Var_ChainPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
