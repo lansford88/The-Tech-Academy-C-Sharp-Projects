@@ -138,6 +138,57 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                DateTime today = DateTime.Today;
+                int age = today.Year - insuree.DateOfBirth.Year;
+
+
+                insuree.Quote = 50;
+
+                if (age < 18)
+                {
+                    insuree.Quote += 100;
+                }
+                if (age >= 19 && age <= 25)
+                {
+                    insuree.Quote += 50;
+                }
+                if (age > 25)
+                {
+                    insuree.Quote += 25;
+                }
+                if (insuree.CarYear < 2000)
+                {
+                    insuree.Quote += 25;
+                }
+                if (insuree.CarYear < 2000)
+                {
+                    insuree.Quote += 25;
+                }
+                if (insuree.CarYear > 2015)
+                {
+                    insuree.Quote += 25;
+                }
+                if (insuree.CarMake == "Porsche")
+                {
+                    insuree.Quote += 25;
+                }
+                if (insuree.CarMake == "Porcsch" && insuree.CarModel == "911 Carrera")
+                {
+                    insuree.Quote += 25;
+                }
+
+                insuree.Quote += insuree.SpeedingTickets * 10;
+
+                if (insuree.DUI == true)
+                {
+                    insuree.Quote += insuree.Quote * 0.25m;
+                }
+
+                if (insuree.CoverageType == true)
+                {
+                    insuree.Quote += insuree.Quote * 0.5m;
+                }
+
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -147,6 +198,7 @@ namespace CarInsurance.Controllers
 
         public ActionResult Admin()
         {
+
             return View(db.Insurees.ToList());
         }
 
