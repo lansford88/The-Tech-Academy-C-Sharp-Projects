@@ -1,0 +1,12 @@
+C:\Users\Ryan\Desktop\Basic_C#_Programs\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\Ryan\Desktop\Basic_C#_Programs\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\Ryan\Desktop\Basic_C#_Programs\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Ryan\Desktop\Basic_C#_Programs\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ryan\Desktop\Basic_C#_Programs\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Ryan\Desktop\Basic_C#_Programs\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ryan\Desktop\Basic_C#_Programs\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\Basic_C#_Programs\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Ryan\Desktop\Basic_C#_Programs\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\Ryan\Desktop\Basic_C#_Programs\CodeFirst\obj\Debug\CodeFirst.pdb
